@@ -39,7 +39,7 @@ h2 {
 }
 
 .content {
-  width: 400px;
+  width: auto;
   margin: 2.5em auto;
   text-align: center;
   padding: 2em;
