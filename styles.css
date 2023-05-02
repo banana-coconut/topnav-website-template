@@ -1,7 +1,6 @@
 body {
   background-color: #ceced2;
   color: #000000;
-  font-family: Roboto-Regular;
 }
 
 p {
@@ -22,7 +21,6 @@ h2 {
   padding: 0;
   overflow: hidden;
   background-color: #efeff4;
-  font-family: Roboto-Bold;
 }
 
 .navbar li {
@@ -45,14 +43,4 @@ h2 {
   padding: 1.25em;
   background-color: #efeff4;
   border-radius: 0.5em;
-}
-
-@font-face {
-  font-family: Roboto-Regular;
-  src: url(fonts/Roboto-Regular.ttf);
-}
-
-@font-face {
-  font-family: Roboto-Bold;
-  src: url(fonts/Roboto-Bold.ttf);
 }
