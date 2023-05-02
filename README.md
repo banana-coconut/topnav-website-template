@@ -1,2 +1,6 @@
-# Website Template with Top Navigation Bar
-This project is licensed under the  
+# Topnav
+
+A website template with a top navigation bar
+
+## Downloading
+
