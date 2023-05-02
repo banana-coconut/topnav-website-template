@@ -37,4 +37,5 @@ IMPORTANT: THIS ONLY WORKS ON DEBIAN AND DEBIAN BASED DISTROBUTIONS LIKE LINUX M
 ```bash
 sudo apt update
 sudo apt install nginx
+sudo cp /home/$USER/index.html /var/www/html/ 
 ```
