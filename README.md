@@ -19,4 +19,22 @@ file so you will need a archiving program to unzip it.
 wget https://raw.githubusercontent.com/Banana-Coconut/topnav-website/master/index.html 
 https://raw.githubusercontent.com/Banana-Coconut/topnav-website/master/styles.css
 ```
-#### With cURL
+#### With curl
+
+```bash
+curl -O https://raw.githubusercontent.com/Banana-Coconut/topnav-website/master/index.html 
+https://raw.githubusercontent.com/Banana-Coconut/topnav-website/master/styles.css
+```
+## Editing
+
+## Usage
+
+### Locally
+
+IMPORTANT: THIS ONLY WORKS ON DEBIAN AND DEBIAN BASED DISTROBUTIONS LIKE LINUX MINT
+
+#### Installing the Server
+```bash
+sudo apt update
+sudo apt install nginx
+```
