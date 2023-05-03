@@ -35,7 +35,10 @@ IMPORTANT: THIS ONLY WORKS ON DEBIAN AND DEBIAN BASED DISTROBUTIONS LIKE LINUX M
 
 #### Installing the Server
 ```bash
+cd /home/$USER
 sudo apt update
 sudo apt install nginx
-sudo cp /home/$USER/index.html /var/www/html/ 
+sudo cp /home/$USER/index.html /var/www/html/
+sudo cd /home/$USER/styles.css /var/www/html/
+sudo rm index.html styles.css 
 ```
