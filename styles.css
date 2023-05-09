@@ -15,7 +15,7 @@ h2 {
   font-size: 1.875em;
 }
 
-.navbar ul {
+.topnav ul {
   list-style-type: none;
   margin: -8px;
   padding: 0;
@@ -23,11 +23,11 @@ h2 {
   background-color: #efeff4;
 }
 
-.navbar li {
+.topnav li {
   float: left;
 }
 
-.navbar li a {
+.topnav li a {
   display: block;
   color: #000000;
   text-align: center;
@@ -43,4 +43,14 @@ h2 {
   padding: 1.25em;
   background-color: #efeff4;
   border-radius: 0.5em;
+}
+
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto-Bold;
+  src: url(fonts/Roboto-Bold.ttf);
 }
