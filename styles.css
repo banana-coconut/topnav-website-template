@@ -61,6 +61,6 @@ h6 {
 }
 
 @font-face {
-  font-family: #; /* The newly assigned
-  src: url(#);
+  font-family: #; /* The newly assigned font-family name. */
+  src: url(#); /* The path to the font file. */
 }
