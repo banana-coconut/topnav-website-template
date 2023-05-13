@@ -37,11 +37,11 @@ h6 {
 }
 
 .topnav ul {
+  background-color: #ffffff;
   list-style-type: none;
   margin: -8px;
-  padding: 0;
   overflow: hidden;
-  background-color: #ffffff;
+  padding: 0;
 }
 
 .topnav li {
@@ -49,11 +49,11 @@ h6 {
 }
 
 .topnav li a {
-  display: block;
   color: #000000;
-  text-align: center;
-  padding: 14px 16px;
+  display: block;
   margin-top: 0;
+  padding: 14px 16px;
+  text-align: center;
   text-decoration: none;
 }
 
