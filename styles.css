@@ -58,12 +58,12 @@ h6 {
 }
 
 .content {
-  width: auto;
-  margin: 2.5em auto;
-  text-align: left;
-  padding: 1.25em;
   background-color: #efeff4;
   border-radius: 0.5em;
+  margin: 2.5em auto;
+  padding: 1.25em;
+  text-align: left;
+  width: auto;
 }
 
 @font-face {
