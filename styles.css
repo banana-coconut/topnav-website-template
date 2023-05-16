@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  font-size: 18pt;
+  font-size: 16pt;
 }
 
 /* Make sure to use a bold font for the headings. */
@@ -13,27 +13,19 @@ h1, h2, h3, h4, h5, h6, {
 }
 
 h1 {
-  font-size: 36pt; 
+  font-size: 32pt; 
 }
 
 h2 {
-  font-size: 33pt;
+  font-size: 24pt;
 }
 
 h3 {
-  font-size: 30pt;
+  font-size: 20pt;
 }  
   
 h4 {
-  font-size: 27pt;  
-}
-
-h5 {
-  font-size: 24pt;
-}  
-  
-h6 {
-  font-size: 21pt;
+  font-size: 18pt;  
 }
 
 .topnav ul {
