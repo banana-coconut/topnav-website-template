@@ -17,16 +17,24 @@ h1 {
 }
 
 h2 {
-  font-size: 24pt;
+  font-size: 26pt;
 }
 
 h3 {
-  font-size: 20pt;
+  font-size: 22pt;
 }  
   
 h4 {
   font-size: 18pt;  
 }
+
+h5 {
+  font-size: 14pt;
+}
+  
+h6 { 
+  font-size: 11pt;
+}  
 
 .topnav ul {
   background-color: #ffffff;
