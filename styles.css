@@ -17,23 +17,11 @@ h1 {
 }
 
 h2 {
-  font-size: 26pt;
+  font-size: 24pt;
 }
 
 h3 {
-  font-size: 22pt;
-}  
-  
-h4 {
-  font-size: 18pt;  
-}
-
-h5 {
-  font-size: 14pt;
-}
-  
-h6 { 
-  font-size: 11pt;
+  font-size: 20pt;
 }  
 
 .topnav ul {
